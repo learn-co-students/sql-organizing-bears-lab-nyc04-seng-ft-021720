@@ -1,3 +1,4 @@
+# holds a class that handles executing your .sql files
 require_relative 'environment'
 require 'pry'
 
